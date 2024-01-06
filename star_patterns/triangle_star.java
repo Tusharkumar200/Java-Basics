@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class thiangle_star {
+public class triangle_star {
   public static void main(String[] args) {
     System.out.println("Enter Number ");
     try (Scanner stars = new Scanner(System.in)) {
