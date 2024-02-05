@@ -5,7 +5,7 @@ public class LCM_Of_Two_Number {
    try(Scanner input = new Scanner(System.in)){
     System.out.print("Enter the first number: ");
     int first=input.nextInt();
-    System.out.print("Enter the first number: ");
+    System.out.print("Enter the second number: ");
     int second=input.nextInt();
     int lcm =lcm(first,second);
     System.out.println("LCM Of Two Number is : "+lcm); 
